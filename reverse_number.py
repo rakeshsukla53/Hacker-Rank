@@ -105,6 +105,14 @@ mylist.add(10)
 mylist.add(12)
 mylist.add(13)
 mylist.add(14)
+mylist.add(15)
+mylist.add(16)
+mylist.add(17)
+mylist.add(18)
+mylist.add(19)
+mylist.add(20)
+
+
 
 mylist.reverse()
 

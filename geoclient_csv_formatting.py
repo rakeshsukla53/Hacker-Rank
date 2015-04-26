@@ -4,7 +4,7 @@ import urllib2
 import json
 import xlrd, xlwt
 from xlutils.copy import copy
-import os
+import os, time
 #fullAddress = 'https://api.cityofnewyork.us/geoclient/v1/address.json?houseNumber=' + str(house) + '&street=' + str(street) + '&borough=' + str(borough) + '&app_id=e7df1765&app_key=bb80a97381a0fa916bb860768fa71b8f'
 
 file_location = "/home/rakesh/Downloads/Ontodia_Data/Brooklyn_Jobs_and_Economic_Mobility/data/Processed_OpenRefine/borough.xls"
@@ -14,6 +14,8 @@ wb = copy(workbook)
 w_sheet = wb.get_sheet(0)
 
 data = [[sheet.cell_value(r, c) for c in range(sheet.ncols)] for r in range(sheet.nrows)]
+
+
 
 def fullAddress():
 
@@ -31,6 +33,12 @@ def fullAddress():
             location = json.load(a)['results'][0]['response']
         except:
             pass
+
+        for key, value in location.iteritems():
+
+                print key
+
+        time.sleep(20)
 
         print location
 
@@ -50,3 +58,4 @@ def fullAddress():
     wb.save('test.xls')
 
 fullAddress()
+

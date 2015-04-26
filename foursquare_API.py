@@ -4,9 +4,10 @@ __author__ = 'rakesh'
 import urllib2
 import json
 
-url = 'https://api.foursquare.com/v2/venues/search?oauth_token=4XPF3IPDAEN5TTQ2TFEYG4FNOKGTEHHHJNMSOOMQL0GB4VHG&v=20131016&ll=33.6167%2C%20-117.8975&intent=checkin'
+url = 'https://api.foursquare.com/v2/venues/search?oauth_token=OKGTEHHHJNMSOOMQL0GB4VHG&v=20131016&ll=33.6167%2C%20-117.8975&intent=checkin'
 
 #API are basically just a link
+#oauth_token is changed
 
 obj = urllib2.urlopen(url)
 

@@ -5,7 +5,9 @@ __author__ = 'rakesh'
 import urllib2
 import json
 
-api = '14ec5d7993ac14e36c580589967a89f260e3b418'
+api = '14ec5d79a89f260e3b418'
+
+#api is changed and it will not work
 
 url = 'https://api.locu.com/v1_0/venue/search/?'
 

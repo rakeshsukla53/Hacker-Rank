@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd73974-2eea-4d89-94f6-6c194e0e1b5f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/matrix_handling.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flowers_hacker_rank.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matrix_handling.py" afterPath="$PROJECT_DIR$/matrix_handling.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hacker Ranker.iws" />
@@ -27,21 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="matrix_handling.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/matrix_handling.py">
+      <file leaf-file-name="flowers_hacker_rank.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flowers_hacker_rank.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51724136" vertical-offset="465" max-vertical-offset="1080">
-              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="greedy_grid.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greedy_grid.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.21875" vertical-offset="45" max-vertical-offset="1065">
+              <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -66,6 +57,7 @@
         <option value="$PROJECT_DIR$/foursquare_API.py" />
         <option value="$PROJECT_DIR$/greedy_grid.py" />
         <option value="$PROJECT_DIR$/matrix_handling.py" />
+        <option value="$PROJECT_DIR$/flowers_hacker_rank.py" />
       </list>
     </option>
   </component>
@@ -131,26 +123,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.matrix_handling">
-    <configuration default="false" name="dynamic_programming_memoization" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Hacker Ranker" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dynamic_programming_memoization.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.flowers_hacker_rank">
     <configuration default="false" name="foursquare_API" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,6 +194,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Hacker Ranker" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_handling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="flowers_hacker_rank" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Hacker Ranker" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flowers_hacker_rank.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -350,19 +342,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.dynamic_programming_memoization" />
-      <item index="1" class="java.lang.String" itemvalue="Python.foursquare_API" />
-      <item index="2" class="java.lang.String" itemvalue="Python.locu_API" />
-      <item index="3" class="java.lang.String" itemvalue="Python.greedy_grid" />
-      <item index="4" class="java.lang.String" itemvalue="Python.matrix_handling" />
+      <item index="0" class="java.lang.String" itemvalue="Python.foursquare_API" />
+      <item index="1" class="java.lang.String" itemvalue="Python.locu_API" />
+      <item index="2" class="java.lang.String" itemvalue="Python.greedy_grid" />
+      <item index="3" class="java.lang.String" itemvalue="Python.matrix_handling" />
+      <item index="4" class="java.lang.String" itemvalue="Python.flowers_hacker_rank" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.matrix_handling" />
-        <item index="1" class="java.lang.String" itemvalue="Python.greedy_grid" />
-        <item index="2" class="java.lang.String" itemvalue="Python.locu_API" />
-        <item index="3" class="java.lang.String" itemvalue="Python.foursquare_API" />
-        <item index="4" class="java.lang.String" itemvalue="Python.dynamic_programming_memoization" />
+        <item index="0" class="java.lang.String" itemvalue="Python.flowers_hacker_rank" />
+        <item index="1" class="java.lang.String" itemvalue="Python.matrix_handling" />
+        <item index="2" class="java.lang.String" itemvalue="Python.greedy_grid" />
+        <item index="3" class="java.lang.String" itemvalue="Python.locu_API" />
+        <item index="4" class="java.lang.String" itemvalue="Python.foursquare_API" />
       </list>
     </recent_temporary>
   </component>
@@ -562,8 +554,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/matrix_handling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51724136" vertical-offset="465" max-vertical-offset="1080">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.27586207" vertical-offset="0" max-vertical-offset="1065">
+          <caret line="8" column="79" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flowers_hacker_rank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21875" vertical-offset="45" max-vertical-offset="1065">
+          <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
           <folding />
         </state>
       </provider>

@@ -42,7 +42,6 @@ def grid_challenge():
 
     print output
 
-
 for k in range(x):
     grid_challenge()
 

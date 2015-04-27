@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd73974-2eea-4d89-94f6-6c194e0e1b5f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foursquare_API.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/locu_API.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.test.xls#" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geoclient_csv_formatting.py" afterPath="$PROJECT_DIR$/geoclient_csv_formatting.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greedy_grid.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hacker Ranker.iws" />
@@ -29,7 +26,18 @@
     <favorites_list name="Hacker Ranker" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="greedy_grid.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/greedy_grid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5862069" vertical-offset="330" max-vertical-offset="765">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,14 +54,15 @@
         <option value="$PROJECT_DIR$/dynamic_programming_memoization.py" />
         <option value="$PROJECT_DIR$/locu_API.py" />
         <option value="$PROJECT_DIR$/foursquare_API.py" />
+        <option value="$PROJECT_DIR$/greedy_grid.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1535" />
-    <option name="height" value="876" />
+    <option name="x" value="623" />
+    <option name="y" value="119" />
+    <option name="width" value="1525" />
+    <option name="height" value="818" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -111,26 +120,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.locu_API">
-    <configuration default="false" name="reverse_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Hacker Ranker" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverse_number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.greedy_grid">
     <configuration default="false" name="input_from_client_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,6 +191,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Hacker Ranker" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/locu_API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="greedy_grid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Hacker Ranker" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy_grid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -330,19 +339,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.reverse_number" />
-      <item index="1" class="java.lang.String" itemvalue="Python.input_from_client_excel" />
-      <item index="2" class="java.lang.String" itemvalue="Python.dynamic_programming_memoization" />
-      <item index="3" class="java.lang.String" itemvalue="Python.foursquare_API" />
-      <item index="4" class="java.lang.String" itemvalue="Python.locu_API" />
+      <item index="0" class="java.lang.String" itemvalue="Python.input_from_client_excel" />
+      <item index="1" class="java.lang.String" itemvalue="Python.dynamic_programming_memoization" />
+      <item index="2" class="java.lang.String" itemvalue="Python.foursquare_API" />
+      <item index="3" class="java.lang.String" itemvalue="Python.locu_API" />
+      <item index="4" class="java.lang.String" itemvalue="Python.greedy_grid" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.locu_API" />
-        <item index="1" class="java.lang.String" itemvalue="Python.foursquare_API" />
-        <item index="2" class="java.lang.String" itemvalue="Python.dynamic_programming_memoization" />
-        <item index="3" class="java.lang.String" itemvalue="Python.input_from_client_excel" />
-        <item index="4" class="java.lang.String" itemvalue="Python.reverse_number" />
+        <item index="0" class="java.lang.String" itemvalue="Python.greedy_grid" />
+        <item index="1" class="java.lang.String" itemvalue="Python.locu_API" />
+        <item index="2" class="java.lang.String" itemvalue="Python.foursquare_API" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dynamic_programming_memoization" />
+        <item index="4" class="java.lang.String" itemvalue="Python.input_from_client_excel" />
       </list>
     </recent_temporary>
   </component>
@@ -373,16 +382,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1535" height="876" extended-state="6" />
-    <editor active="false" />
+    <frame x="623" y="119" width="1525" height="818" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25166446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3582296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -390,10 +401,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35861182" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -437,7 +446,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="450">
           <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -517,7 +526,7 @@
         <state vertical-scroll-proportion="0.2393617" vertical-offset="0" max-vertical-offset="752">
           <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -529,6 +538,14 @@
           <folding>
             <element signature="e#24#38#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy_grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5862069" vertical-offset="330" max-vertical-offset="765">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

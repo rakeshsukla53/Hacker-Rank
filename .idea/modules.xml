@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Algorithms-in-Python/.idea/Algorithms-in-Python.iml" filepath="$PROJECT_DIR$/../Algorithms-in-Python/.idea/Algorithms-in-Python.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Cracking-the-Coding-Interview/.idea/Cracking_the_coding_interview.iml" filepath="$PROJECT_DIR$/../Cracking-the-Coding-Interview/.idea/Cracking_the_coding_interview.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Hacker Ranker.iml" filepath="$PROJECT_DIR$/.idea/Hacker Ranker.iml" />
     </modules>
   </component>
